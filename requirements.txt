@@ -1,0 +1,8 @@
+pdf2image
+pytesseract
+chromadb
+sentence-transformers
+numpy
+requests
+python-dotenv
+streamlit
